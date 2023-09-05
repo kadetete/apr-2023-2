@@ -19,7 +19,7 @@ nav:
 - papel.md
 - tesoura.md
 - Ensaios:
-- mermaid.md
+  - ensaio/mermaid.md
 
 
 plugins:
