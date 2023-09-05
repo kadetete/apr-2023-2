@@ -18,3 +18,9 @@ nav:
 - pedra.md
 - papel.md
 - tesoura.md
+- Ensaios:
+- mermaid.md
+
+
+plugins:
+- mermaid2
