@@ -8,6 +8,13 @@ site_author: Guilherme Cadete
 repo_name: kadetete/apr-2023-2
 repo_url: https://github.com/kadetete/apr-2023-2
 
+# Theme
 theme:
   name: material
   language: pt
+
+nav:
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
